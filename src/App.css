@@ -1,0 +1,44 @@
+* {
+  font-family: "Nunito";
+}
+.container img {
+  margin-right: 20px;
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background: #e2edff;
+}
+.jumbotron img {
+  margin-top: 50px;
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+}
+
+.jumbotron h1,
+.jumbotron p {
+  margin-top: 20px;
+}
+#projects {
+  background-color: #e2edff;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+section#about .row {
+  padding: 50px;
+}
+
+section .row {
+  padding: 50px;
+}
+section .row .card {
+  border-radius: 10px;
+}
+/* section .row .bigster img {
+  width: auto;
+  height: 135px;
+} */
