@@ -10,10 +10,10 @@ export default function About() {
           </div>
           <div className="row justify-content-center fs-5 text-center">
             <div className="col-md-4 mb-3" data-aos="fade-right" data-aos-delay="200">
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Autem consectetur ut!</p>
+              <p>I am a beginner web developer in this profession. I have an understanding of web development and have the necessary expertise to create functional and attractive websites.</p>
             </div>
             <div className="col-md-4" data-aos="fade-left" data-aos-delay="500">
-              <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Saepe ab aut ratione quas, alias labore corporis.</p>
+              <p>im study to html,css,javascript and react and still learn about web development</p>
             </div>
           </div>
         </div>
